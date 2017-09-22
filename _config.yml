@@ -74,3 +74,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: default
 
+# hexo-renderer-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
